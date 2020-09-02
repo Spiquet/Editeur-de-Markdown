@@ -1,0 +1,24 @@
+{
+  "name": "editeur-de-markdown",
+  "version": "1.0.0",
+  "description": "Editeur de Markdown avec TypeScript et le framework Preact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spiquet/Editeur-de-Markdown.git"
+  },
+  "author": "SimonP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spiquet/Editeur-de-Markdown/issues"
+  },
+  "homepage": "https://github.com/Spiquet/Editeur-de-Markdown#readme",
+  "dependencies": {
+    "preact": "^10.4.8",
+    "ts-loader": "^8.0.3",
+    "typescript": "^4.0.2"
+  }
+}
